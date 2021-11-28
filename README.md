@@ -1,1 +1,1 @@
-# Rock-Paper-Scissor-Game-
+A randrom number( 0 means rock, 1 means paper , 2 means scissor) is choosen every time when the program is excuted . User enters a choice range from 0 to 2 and based on game condition user either win or loose
